@@ -1,0 +1,14 @@
+C:\Users\selmo\source\repos\TesteBenner\TesteBenner\obj\Debug\net8.0\TesteBenner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\selmo\source\repos\TesteBenner\TesteBenner\obj\Debug\net8.0\TesteBenner.AssemblyInfoInputs.cache
+C:\Users\selmo\source\repos\TesteBenner\TesteBenner\obj\Debug\net8.0\TesteBenner.AssemblyInfo.cs
+C:\Users\selmo\source\repos\TesteBenner\TesteBenner\obj\Debug\net8.0\TesteBenner.csproj.CoreCompileInputs.cache
+C:\Users\selmo\source\repos\TesteBenner\TesteBenner\bin\Debug\net8.0\TesteBenner.exe
+C:\Users\selmo\source\repos\TesteBenner\TesteBenner\bin\Debug\net8.0\TesteBenner.deps.json
+C:\Users\selmo\source\repos\TesteBenner\TesteBenner\bin\Debug\net8.0\TesteBenner.runtimeconfig.json
+C:\Users\selmo\source\repos\TesteBenner\TesteBenner\bin\Debug\net8.0\TesteBenner.dll
+C:\Users\selmo\source\repos\TesteBenner\TesteBenner\bin\Debug\net8.0\TesteBenner.pdb
+C:\Users\selmo\source\repos\TesteBenner\TesteBenner\obj\Debug\net8.0\TesteBenner.dll
+C:\Users\selmo\source\repos\TesteBenner\TesteBenner\obj\Debug\net8.0\refint\TesteBenner.dll
+C:\Users\selmo\source\repos\TesteBenner\TesteBenner\obj\Debug\net8.0\TesteBenner.pdb
+C:\Users\selmo\source\repos\TesteBenner\TesteBenner\obj\Debug\net8.0\TesteBenner.genruntimeconfig.cache
+C:\Users\selmo\source\repos\TesteBenner\TesteBenner\obj\Debug\net8.0\ref\TesteBenner.dll
